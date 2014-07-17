@@ -1,0 +1,6 @@
+name: pdfjs_for_pub
+description: PDF.js files, in a pub package.
+authors:
+   - Mozilla
+version: 1.0.68
+homepage: https://github.com/wil93/pdfjs_for_pub
